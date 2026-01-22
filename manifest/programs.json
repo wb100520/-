@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-22T00:00:00Z",
+  "notes": "若 possible，请在 direct_url 字段填入官方二进制的直接下载链接；脚本会优先使用 direct_url。若为空，脚本会提示你手动输入下载链接（从官方下载页复制）。",
+  "programs": [
+    {
+      "id": "wireguard",
+      "name": "WireGuard",
+      "platforms": [
+        {
+          "platform": "windows",
+          "download_page": "https://www.wireguard.com/install/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "macos",
+          "download_page": "https://www.wireguard.com/install/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "linux",
+          "download_page": "https://www.wireguard.com/install/",
+          "direct_url": "",
+          "checksum_url": ""
+        }
+      ]
+    },
+    {
+      "id": "torbrowser",
+      "name": "Tor Browser",
+      "platforms": [
+        {
+          "platform": "windows",
+          "download_page": "https://www.torproject.org/download/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "macos",
+          "download_page": "https://www.torproject.org/download/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "linux",
+          "download_page": "https://www.torproject.org/download/",
+          "direct_url": "",
+          "checksum_url": ""
+        }
+      ]
+    },
+    {
+      "id": "openvpn",
+      "name": "OpenVPN Community",
+      "platforms": [
+        {
+          "platform": "windows",
+          "download_page": "https://openvpn.net/community-downloads/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "macos",
+          "download_page": "https://openvpn.net/community-downloads/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "linux",
+          "download_page": "https://openvpn.net/community-downloads/",
+          "direct_url": "",
+          "checksum_url": ""
+        }
+      ]
+    },
+    {
+      "id": "outline",
+      "name": "Outline",
+      "platforms": [
+        {
+          "platform": "windows",
+          "download_page": "https://getoutline.org/",
+          "direct_url": "",
+          "checksum_url": ""
+        },
+        {
+          "platform": "linux",
+          "download_page": "https://getoutline.org/",
+          "direct_url": "",
+          "checksum_url": ""
+        }
+      ]
+    }
+  ]
+}

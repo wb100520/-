@@ -1,0 +1,5 @@
+# 不 Git 提交临时下载内容与最终构建产物（除非你确实想把二进制放入仓库）
+/portable/*
+!/portable/.gitkeep
+/build/*
+*.zip

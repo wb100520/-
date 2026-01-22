@@ -1,0 +1,4 @@
+# 此文件由脚本/手动填写，格式：
+# <sha256>  <relative-path>
+# 例如：
+# a3b1...  programs/wireguard/windows/wireguard-installer.exe
